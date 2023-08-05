@@ -6,15 +6,20 @@ using TMPro;
 public class Vidas : MonoBehaviour
 {
     //Variable que almacena la vida total durante la partida
-    public int VidaTotal;
+    public float VidaTotal;
+    public bool inmortal;
+
     private void Start()
     {
+        VidaTotal = FindObjectOfType<CharacterController2D>().life;
+
+
         //Inicializa el texto del canvas con la vida total
         gameObject.GetComponent<TextMeshProUGUI>().text = VidaTotal.ToString();
     }
     public void CondicionesVida()
     {
-        if (VidaTotal <= 0)
+        if (VidaTotal < 0)
         {
             //La vida total no puede ser menor a cero
             VidaTotal = 0;
@@ -23,5 +28,15 @@ public class Vidas : MonoBehaviour
             //Mostrar PanelPerder
             GameObject.FindObjectOfType<Paneles>().panelPerder.SetActive(true);
         }
+    }
+
+
+    public void ResetInmortal(float tiempoInmortal)
+    {
+        Invoke(nameof(ResetInmortalAux), tiempoInmortal);
+    }
+    private void ResetInmortalAux()
+    {
+        inmortal = false;
     }
 }
