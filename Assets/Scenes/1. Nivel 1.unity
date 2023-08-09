@@ -771,7 +771,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 138323683}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -24.3, y: -0.6, z: -10}
+  m_LocalPosition: {x: -24.4, y: -0.81, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1006,8 +1006,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 806488317}
 --- !u!61 &242498515
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6202,7 +6202,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -24.3, y: -0.6, z: -10}
+  m_LocalPosition: {x: -24.4, y: -0.81, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -77249,8 +77249,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 806488317}
 --- !u!61 &711499489
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -93664,8 +93664,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 806488317}
 --- !u!61 &969350061
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -94079,8 +94079,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 806488317}
 --- !u!61 &1079861477
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -94227,8 +94227,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 806488317}
 --- !u!61 &1135128038
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -94512,8 +94512,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 806488317}
 --- !u!61 &1184629433
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -95999,11 +95999,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4660076192433278, guid: 50936cccdb69523458c1b42052ebafff, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -24.3
+      value: -24.4
       objectReference: {fileID: 0}
     - target: {fileID: 4660076192433278, guid: 50936cccdb69523458c1b42052ebafff, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.6
+      value: -0.81
       objectReference: {fileID: 0}
     - target: {fileID: 4660076192433278, guid: 50936cccdb69523458c1b42052ebafff, type: 3}
       propertyPath: m_LocalPosition.z
@@ -97315,8 +97315,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 806488317}
 --- !u!61 &1814907935
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -97622,8 +97622,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 806488317}
 --- !u!61 &1832257640
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -98518,8 +98518,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 806488317}
 --- !u!61 &2027594628
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -99312,8 +99312,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 806488317}
 --- !u!61 &2101919797
 BoxCollider2D:
   m_ObjectHideFlags: 0

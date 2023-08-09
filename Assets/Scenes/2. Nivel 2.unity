@@ -21293,8 +21293,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 2010353464}
 --- !u!1 &137367706
 GameObject:
   m_ObjectHideFlags: 3
@@ -21529,8 +21529,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 2010353464}
 --- !u!1 &192904448
 GameObject:
   m_ObjectHideFlags: 0
@@ -32035,8 +32035,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 2010353464}
 --- !u!1 &359815611
 GameObject:
   m_ObjectHideFlags: 0
@@ -32808,8 +32808,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 2010353464}
 --- !u!1 &499407616
 GameObject:
   m_ObjectHideFlags: 0
@@ -35854,8 +35854,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 2010353464}
 --- !u!1 &859275624
 GameObject:
   m_ObjectHideFlags: 0
@@ -36136,8 +36136,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 2010353464}
 --- !u!1 &889814452
 GameObject:
   m_ObjectHideFlags: 0
@@ -116234,8 +116234,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 2010353464}
 --- !u!1 &1176275495
 GameObject:
   m_ObjectHideFlags: 0
@@ -116615,8 +116615,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 2010353464}
 --- !u!1 &1226664760
 GameObject:
   m_ObjectHideFlags: 0
@@ -116763,8 +116763,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 2010353464}
 --- !u!1 &1274738120
 GameObject:
   m_ObjectHideFlags: 0
@@ -125879,8 +125879,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 2010353464}
 --- !u!1 &1485932890
 GameObject:
   m_ObjectHideFlags: 0
@@ -126027,8 +126027,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 2010353464}
 --- !u!1 &1499554090
 GameObject:
   m_ObjectHideFlags: 0
@@ -126449,8 +126449,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 2010353464}
 --- !u!1 &1600457111
 GameObject:
   m_ObjectHideFlags: 0
@@ -126723,8 +126723,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 2010353464}
 --- !u!1 &1661275100
 GameObject:
   m_ObjectHideFlags: 0
@@ -127905,8 +127905,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 2010353464}
 --- !u!1 &1908784293
 GameObject:
   m_ObjectHideFlags: 0
@@ -128666,8 +128666,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e2fae5d0aa2e1469cf7d8c586f0c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puertaAuido: {fileID: 0}
-  audioSource: {fileID: 0}
+  puertaAuido: {fileID: 8300000, guid: 3ff1577134d3b184f865e1df98335568, type: 3}
+  audioSource: {fileID: 2010353464}
 --- !u!1 &2000557738
 GameObject:
   m_ObjectHideFlags: 0
